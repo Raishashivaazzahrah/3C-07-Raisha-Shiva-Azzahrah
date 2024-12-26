@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "676cac15bb65cc89274eeb89"
+  },
+  "nama": "Putri",
+  "perawatan": "Potong Rambut, Cuci, Blow",
+  "harga": "150.000",
+  "jenis_pembayaran": "Debit"
+}]
